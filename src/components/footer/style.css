@@ -14,14 +14,17 @@
     width: 75px;
     font-size: small;
 }
-#homeBtn{
-    float: left;
-}
-#acctBtn{
-    float: right;
-}
+
 .fas{
     display: block;
     text-align: center;
     margin: 0px auto 0px auto;
 }
+@media only screen and (max-width: 600px) {
+    #homeBtn{
+        float: left;
+    }
+    #acctBtn{
+        float: right;
+    }
+  }
