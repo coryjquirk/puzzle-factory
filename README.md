@@ -1,2 +1,4 @@
-# puzzle-factory
-Game generator mobile app. 
+#puzzle factory
+
+* no ads
+* generates word games, number puzzles, etc.
