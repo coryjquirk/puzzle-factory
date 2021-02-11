@@ -1,6 +1,6 @@
 #footer{
     height:80px;
-text-align: center;
+    width: 100%;
     position: fixed;
     bottom:0;
     background-color: white;
@@ -14,15 +14,13 @@ text-align: center;
     width: 75px;
     font-size: small;
 }
-#header{
-    text-align: center;
-}
+
 .fas{
     display: block;
     text-align: center;
     margin: 0px auto 0px auto;
 }
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 600px) {
     #homeBtn{
         float: left;
     }
